@@ -1,1 +1,1 @@
-# backgroung-generator
+# background-generator
